@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Lumiere" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color: Seraphic Calm Electric Indigo -->
+        <item name="colorPrimary">#4F46E5</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <!-- Secondary brand color: Sunrise Peach -->
+        <item name="colorSecondary">#FDBA74</item>
+        <item name="colorOnSecondary">#1A1C24</item>
+        <!-- Background: Seraphic Ivory Canvas -->
+        <item name="android:windowBackground">#FFFCF0</item>
+        <!-- Status bar and navigation bar styling -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>
