@@ -1,0 +1,6 @@
+{
+  "name": "Lumiere",
+  "description": "Lumiere design system and UI companion showcase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
